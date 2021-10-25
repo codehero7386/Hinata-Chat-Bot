@@ -74,16 +74,16 @@ const alternative = [
 // Whatever else you want :)
 
 const coronavirus = [
-"Please stay home",
- "Wear a mask", 
- "Fortunately, I don't have COVID", 
- "These are uncertain times"
+"Please wash your hands",
+ "eat well", 
+ "sleep well", 
+ "sanitize regularly "
 ]
 
 const Covid = [
-"Please stay home",
- "Wear a mask", 
- "Fortunately, I don't have COVID", 
- "These are uncertain times"
+"Please wash your hands",
+ "eat well", 
+ "sleep well", 
+ "sanitize regularly "
 ]
 
